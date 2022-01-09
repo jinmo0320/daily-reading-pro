@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daily-reading/static/css/main.dbc49617.css",
+    "main.js": "/daily-reading/static/js/main.97a17564.js",
+    "static/media/wave.svg": "/daily-reading/static/media/wave.0337cd9cc411aa536905ea34731fe7a3.svg",
+    "index.html": "/daily-reading/index.html",
+    "static/media/divider.svg": "/daily-reading/static/media/divider.eb76fd397cc30d05e6047f29e54fdf07.svg",
+    "main.dbc49617.css.map": "/daily-reading/static/css/main.dbc49617.css.map",
+    "main.97a17564.js.map": "/daily-reading/static/js/main.97a17564.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbc49617.css",
+    "static/js/main.97a17564.js"
+  ]
+}
